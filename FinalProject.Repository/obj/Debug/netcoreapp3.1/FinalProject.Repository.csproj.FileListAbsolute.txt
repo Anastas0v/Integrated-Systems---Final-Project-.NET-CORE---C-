@@ -1,0 +1,12 @@
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\bin\Debug\netcoreapp3.1\FinalProject.Repository.deps.json
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\bin\Debug\netcoreapp3.1\FinalProject.Repository.dll
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\bin\Debug\netcoreapp3.1\FinalProject.Repository.pdb
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\bin\Debug\netcoreapp3.1\FinalProject.Domain.dll
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\bin\Debug\netcoreapp3.1\FinalProject.Domain.pdb
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\obj\Debug\netcoreapp3.1\FinalProject.Repository.csprojAssemblyReference.cache
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\obj\Debug\netcoreapp3.1\FinalProject.Repository.AssemblyInfoInputs.cache
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\obj\Debug\netcoreapp3.1\FinalProject.Repository.AssemblyInfo.cs
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\obj\Debug\netcoreapp3.1\FinalProject.Repository.csproj.CoreCompileInputs.cache
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\obj\Debug\netcoreapp3.1\FinalProject.Repository.csproj.CopyComplete
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\obj\Debug\netcoreapp3.1\FinalProject.Repository.dll
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Repository\obj\Debug\netcoreapp3.1\FinalProject.Repository.pdb

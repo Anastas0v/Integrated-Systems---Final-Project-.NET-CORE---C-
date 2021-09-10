@@ -1,0 +1,322 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Web\\FinalProject.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Domain\\FinalProject.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Domain\\FinalProject.Domain.csproj",
+        "projectName": "FinalProject.Domain",
+        "projectPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Domain\\FinalProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\Anastasov\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anastasov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Repository\\FinalProject.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Repository\\FinalProject.Repository.csproj",
+        "projectName": "FinalProject.Repository",
+        "projectPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Repository\\FinalProject.Repository.csproj",
+        "packagesPath": "C:\\Users\\Anastasov\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anastasov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Domain\\FinalProject.Domain.csproj": {
+                "projectPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Domain\\FinalProject.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Services\\FinalProject.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Services\\FinalProject.Services.csproj",
+        "projectName": "FinalProject.Services",
+        "projectPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Services\\FinalProject.Services.csproj",
+        "packagesPath": "C:\\Users\\Anastasov\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anastasov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Domain\\FinalProject.Domain.csproj": {
+                "projectPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Domain\\FinalProject.Domain.csproj"
+              },
+              "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Repository\\FinalProject.Repository.csproj": {
+                "projectPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Repository\\FinalProject.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Web\\FinalProject.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Web\\FinalProject.Web.csproj",
+        "projectName": "FinalProject.Web",
+        "projectPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Web\\FinalProject.Web.csproj",
+        "packagesPath": "C:\\Users\\Anastasov\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Anastasov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Domain\\FinalProject.Domain.csproj": {
+                "projectPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Domain\\FinalProject.Domain.csproj"
+              },
+              "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Repository\\FinalProject.Repository.csproj": {
+                "projectPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Repository\\FinalProject.Repository.csproj"
+              },
+              "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Services\\FinalProject.Services.csproj": {
+                "projectPath": "D:\\College\\Excercises\\Integrated Systems\\FinalProject\\FinalProject.Services\\FinalProject.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Utils": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[39.57.0, )"
+            },
+            "jquery.datatables": {
+              "target": "Package",
+              "version": "[1.10.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

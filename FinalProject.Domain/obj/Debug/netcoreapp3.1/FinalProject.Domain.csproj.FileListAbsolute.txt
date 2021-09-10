@@ -1,0 +1,9 @@
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Domain\bin\Debug\netcoreapp3.1\FinalProject.Domain.deps.json
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Domain\bin\Debug\netcoreapp3.1\FinalProject.Domain.dll
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Domain\bin\Debug\netcoreapp3.1\FinalProject.Domain.pdb
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Domain\obj\Debug\netcoreapp3.1\FinalProject.Domain.csprojAssemblyReference.cache
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Domain\obj\Debug\netcoreapp3.1\FinalProject.Domain.AssemblyInfoInputs.cache
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Domain\obj\Debug\netcoreapp3.1\FinalProject.Domain.AssemblyInfo.cs
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Domain\obj\Debug\netcoreapp3.1\FinalProject.Domain.csproj.CoreCompileInputs.cache
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Domain\obj\Debug\netcoreapp3.1\FinalProject.Domain.dll
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Domain\obj\Debug\netcoreapp3.1\FinalProject.Domain.pdb

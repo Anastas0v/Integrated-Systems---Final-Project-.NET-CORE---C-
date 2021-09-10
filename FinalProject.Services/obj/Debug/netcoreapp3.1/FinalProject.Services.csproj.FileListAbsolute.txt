@@ -1,0 +1,14 @@
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\bin\Debug\netcoreapp3.1\FinalProject.Services.deps.json
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\bin\Debug\netcoreapp3.1\FinalProject.Services.dll
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\bin\Debug\netcoreapp3.1\FinalProject.Services.pdb
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\obj\Debug\netcoreapp3.1\FinalProject.Services.csprojAssemblyReference.cache
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\obj\Debug\netcoreapp3.1\FinalProject.Services.AssemblyInfoInputs.cache
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\obj\Debug\netcoreapp3.1\FinalProject.Services.AssemblyInfo.cs
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\obj\Debug\netcoreapp3.1\FinalProject.Services.csproj.CoreCompileInputs.cache
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\obj\Debug\netcoreapp3.1\FinalProject.Services.dll
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\obj\Debug\netcoreapp3.1\FinalProject.Services.pdb
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\bin\Debug\netcoreapp3.1\FinalProject.Domain.dll
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\bin\Debug\netcoreapp3.1\FinalProject.Repository.dll
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\bin\Debug\netcoreapp3.1\FinalProject.Domain.pdb
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\bin\Debug\netcoreapp3.1\FinalProject.Repository.pdb
+D:\College\Excercises\Integrated Systems\FinalProject\FinalProject.Services\obj\Debug\netcoreapp3.1\FinalProject.Services.csproj.CopyComplete

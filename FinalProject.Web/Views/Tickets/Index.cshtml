@@ -1,0 +1,61 @@
+﻿@model List<FinalProject.Domain.DomainModels.Ticket>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="m-3">
+        <a class="btn btn-success" asp-controller="Tickets" asp-action="Create">Add New Ticket</a>
+    </div>
+
+    <table class="table" id="myTable">
+        <thead>
+            
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>
+                    @for (int i = 0; i < Model.Count; i++)
+                    {
+                        var item = Model[i];
+                        <div class="border border-dark rounded m-3">
+                            <div class="list-group">
+                                <div class="border-bottom border-dark">
+                                    <div class="d-flex w-100 justify-content-between">
+                                        <h5 class="m-2 text-center">@item.Name</h5>
+                                        <small class="text-muted font-weight-bold">@item.Price€</small>
+                                    </div>
+                                    <div class="m-2 font-weight-bold bg-light rounded">
+                                        <p class="mb-1">Date: @item.Date</p>
+                                        <p class="mb-1">Time: @item.Time</p>
+                                        <p class="mb-1">Room: @item.Room</p>
+                                        <p class="mb-1">Row: @item.Row</p>
+                                        <p class="mb-1">Seat: @item.Seat</p>
+                                    </div>
+                                    <small class="text-muted m-2 font-italic font-weight-bold">Format: @item.Format</small>
+                                </div>
+                            </div>
+                            <div class="m-1 bg-light rounded">
+                                <a asp-controller="Tickets" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-secondary">Edit</a>
+                                <a asp-controller="Tickets" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                                <a asp-controller="Tickets" asp-action="AddProductToCard" asp-route-id="@item.Id" class="btn btn-info">Add To Cart</a>
+                            </div>
+                        </div>
+
+                    }
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+@section scripts{
+    <script>
+        $(document).ready(function () {
+            var table = $("#myTable").DataTable();
+        });
+    </script>
+} 
